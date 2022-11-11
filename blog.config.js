@@ -3,7 +3,7 @@ const BLOG = {
   author: '动回',
   email: 'i@craigary.net',
   link: 'https://nobelium.vercel.app',
-  description: 'yuan wo men jiao xing  bei ji de.',
+  description: '愿我们侥幸被记得。',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
